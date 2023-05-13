@@ -1,0 +1,28 @@
+@media only screen and (max-width:1000px){
+    .containor{width: 100vw;}
+    .songitem{
+    display: flex;
+    justify-content: center;
+    width:60vw  
+}
+.songitem img{
+    padding: 25px;
+}
+.songitem span{
+    padding: 5px;
+    width: 100vw;
+    font-size: large;
+    margin: auto;
+}
+.containor {
+   background-image:none ;    
+}
+.cont h1{
+    font-size: large;
+    display: flex;
+    justify-content: center;
+}
+.cont{
+   min-height: 80vh;
+}
+      }
